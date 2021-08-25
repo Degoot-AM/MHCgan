@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------------------
+   pos       Allele         peptide         Identity 1-log50k(aff) Affinity(nM)  %Rank   BindingLevel
+---------------------------------------------------------------------------------------
+     0   HLA-A30:01       SSRMSQPEA          PEPLIST         0.811         7.73   0.12  <=SB
+     0   HLA-A30:01       SSRWLQALA          PEPLIST         0.722        20.24   0.40  <=SB
+     0   HLA-A30:01       SSKTISAQA          PEPLIST         0.611        66.92   1.50  <=WB
+     0   HLA-A30:01       STNIIRASA          PEPLIST         0.609        68.75   1.50  <=WB
+     0   HLA-A30:01       SSKRLMNLM          PEPLIST         0.585        89.62   1.50  <=WB
+     0   HLA-A30:01       STRVSSMAN          PEPLIST         0.573       101.50   1.50  <=WB
+     0   HLA-A30:01       SSRCSAKAY          PEPLIST         0.564       112.49   2.00  <=WB
+     0   HLA-A30:01       CTKWIQALA          PEPLIST         0.558       118.74   2.00  <=WB
+     0   HLA-A30:01       STRRMSMKN          PEPLIST         0.544       138.91   2.00  <=WB
+     0   HLA-A30:01       NSRMSQGLA          PEPLIST         0.544       139.66   2.00  <=WB
+     0   HLA-A30:01       STFRSQAWA          PEPLIST         0.528       164.27   2.00  <=WB
+     0   HLA-A30:01       CTRNITKLY          PEPLIST         0.519       181.07   3.00  <=WB
+     0   HLA-A30:01       CTKAIQQWA          PEPLIST         0.504       214.14   3.00  <=WB
+     0   HLA-A30:01       STFHSKPSM          PEPLIST         0.502       218.82   3.00  <=WB
+     0   HLA-A30:01       SSLRIQASA          PEPLIST         0.466       324.79   3.00  <=WB
+     0   HLA-A30:01       CTKWLSAWA          PEPLIST         0.465       326.55   3.00  <=WB
+     0   HLA-A30:01       CTLMSHASA          PEPLIST         0.463       333.69   3.00  <=WB
+     0   HLA-A30:01       SSMWIQASA          PEPLIST         0.454       367.82   4.00  <=WB
+     0   HLA-A30:01       CTLCIQPSA          PEPLIST         0.452       377.91   4.00  <=WB
+     0   HLA-A30:01       SSLYSQASA          PEPLIST         0.451       379.96   4.00  <=WB
+     0   HLA-A30:01       STQRLMPSM          PEPLIST         0.449       388.27   4.00  <=WB
+     0   HLA-A30:01       CTMNITASA          PEPLIST         0.443       416.56   4.00  <=WB
+     0   HLA-A30:01       CTMCIMALA          PEPLIST         0.442       421.09   4.00  <=WB
+     0   HLA-A30:01       CTMCIMALA          PEPLIST         0.442       421.09   4.00  <=WB
+     0   HLA-A30:01       STLALRSSM          PEPLIST         0.435       451.77   4.00  <=WB
+     0   HLA-A30:01       CTMKMQMNA          PEPLIST         0.434       454.22   4.00  <=WB
+---------------------------------------------------------------------------------------
+Number of strong binders: 2 Number of weak binders: 24
+---------------------------------------------------------------------------------------

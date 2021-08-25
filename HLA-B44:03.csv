@@ -1,0 +1,56 @@
+---------------------------------------------------------------------------------------
+   pos       Allele         peptide         Identity 1-log50k(aff) Affinity(nM)  %Rank   BindingLevel
+---------------------------------------------------------------------------------------
+     0   HLA-B44:03       AHIAFATYW          PEPLIST         0.439       432.64   0.80  <=WB
+     0   HLA-B44:03       AHWSFAQKW          PEPLIST         0.420       531.38   0.80  <=WB
+     0   HLA-B44:03       AHLSVAQTW          PEPLIST         0.386       767.66   1.00  <=WB
+     0   HLA-B44:03       AHHAFAYMW          PEPLIST         0.382       805.96   1.00  <=WB
+     0   HLA-B44:03       AHHAMAMYW          PEPLIST         0.378       837.07   1.00  <=WB
+     0   HLA-B44:03       AHHAMWLTW          PEPLIST         0.357      1050.60   1.50  <=WB
+     0   HLA-B44:03       AHQALAQMW          PEPLIST         0.343      1229.06   1.50  <=WB
+     0   HLA-B44:03       AHLSWSQRW          PEPLIST         0.339      1276.50   1.50  <=WB
+     0   HLA-B44:03       AHHAFTYKW          PEPLIST         0.339      1276.50   1.50  <=WB
+     0   HLA-B44:03       AHLSFMQYW          PEPLIST         0.333      1369.50   1.50  <=WB
+     0   HLA-B44:03       AHYMYAYWY          PEPLIST         0.332      1376.93   1.50  <=WB
+     0   HLA-B44:03       AHLAFMTAW          PEPLIST         0.321      1559.37   1.50  <=WB
+     0   HLA-B44:03       AHQAATLAW          PEPLIST         0.320      1567.83   1.50  <=WB
+     0   HLA-B44:03       AHYAPAQTW          PEPLIST         0.319      1584.89   1.50  <=WB
+     0   HLA-B44:03       AHQMFAYTW          PEPLIST         0.315      1663.96   1.50  <=WB
+     0   HLA-B44:03       AHYSFCQKW          PEPLIST         0.311      1718.86   1.50  <=WB
+     0   HLA-B44:03       AHYSASTMW          PEPLIST         0.309      1756.46   2.00  <=WB
+     0   HLA-B44:03       AHVSAYVYW          PEPLIST         0.308      1775.57   2.00  <=WB
+     0   HLA-B44:03       AHLMATYRW          PEPLIST         0.304      1864.16   2.00  <=WB
+     0   HLA-B44:03       AHHAFMQTW          PEPLIST         0.304      1864.16   2.00  <=WB
+     0   HLA-B44:03       AHCMWALQW          PEPLIST         0.304      1864.16   2.00  <=WB
+     0   HLA-B44:03       WHWSWSTKW          PEPLIST         0.296      2032.71   2.00  <=WB
+     0   HLA-B44:03       THSACVWYW          PEPLIST         0.294      2077.17   2.00  <=WB
+     0   HLA-B44:03       AHYMFAYTY          PEPLIST         0.294      2077.17   2.00  <=WB
+     0   HLA-B44:03       AHQMFAQTW          PEPLIST         0.293      2099.77   2.00  <=WB
+     0   HLA-B44:03       AHHSASQAW          PEPLIST         0.293      2088.44   2.00  <=WB
+     0   HLA-B44:03       AHYAFMEKW          PEPLIST         0.292      2122.61   2.00  <=WB
+     0   HLA-B44:03       AHLSASTRW          PEPLIST         0.292      2122.61   2.00  <=WB
+     0   HLA-B44:03       SHHSIAQKW          PEPLIST         0.291      2134.13   2.00  <=WB
+     0   HLA-B44:03       AHHAIHIMW          PEPLIST         0.291      2134.13   2.00  <=WB
+     0   HLA-B44:03       AHQAFAYHY          PEPLIST         0.289      2180.81   2.00  <=WB
+     0   HLA-B44:03       AHHAINIMW          PEPLIST         0.287      2228.52   2.00  <=WB
+     0   HLA-B44:03       AHQSWATKW          PEPLIST         0.286      2264.98   2.00  <=WB
+     0   HLA-B44:03       NHIAPAMMW          PEPLIST         0.285      2289.62   2.00  <=WB
+     0   HLA-B44:03       AHMAMALTM          PEPLIST         0.284      2314.53   2.00  <=WB
+     0   HLA-B44:03       AHHMWATMW          PEPLIST         0.284      2302.04   2.00  <=WB
+     0   HLA-B44:03       AHYAPIEAW          PEPLIST         0.282      2365.16   2.00  <=WB
+     0   HLA-B44:03       THYAIAQQW          PEPLIST         0.279      2443.19   2.00  <=WB
+     0   HLA-B44:03       AHLHMCLGW          PEPLIST         0.278      2456.44   2.00  <=WB
+     0   HLA-B44:03       AHWEMCEYW          PEPLIST         0.277      2510.18   2.00  <=WB
+     0   HLA-B44:03       AHGMYAYKW          PEPLIST         0.275      2537.49   2.00  <=WB
+     0   HLA-B44:03       AHQAFASQW          PEPLIST         0.274      2593.00   2.00  <=WB
+     0   HLA-B44:03       AHGAFAAYW          PEPLIST         0.274      2593.00   2.00  <=WB
+     0   HLA-B44:03       THYAFAETW          PEPLIST         0.271      2664.09   2.00  <=WB
+     0   HLA-B44:03       AHQHWFYWY          PEPLIST         0.271      2678.54   2.00  <=WB
+     0   HLA-B44:03       AHLAARLQW          PEPLIST         0.271      2649.72   2.00  <=WB
+     0   HLA-B44:03       AHCSWATNW          PEPLIST         0.271      2664.09   2.00  <=WB
+     0   HLA-B44:03       THYSFVEHW          PEPLIST         0.270      2707.68   2.00  <=WB
+     0   HLA-B44:03       AHYAHCQYW          PEPLIST         0.270      2707.68   2.00  <=WB
+     0   HLA-B44:03       AHGSWAYMY          PEPLIST         0.270      2693.07   2.00  <=WB
+---------------------------------------------------------------------------------------
+Number of strong binders: 0 Number of weak binders: 50
+---------------------------------------------------------------------------------------

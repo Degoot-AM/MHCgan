@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------------
+   pos       Allele         peptide         Identity 1-log50k(aff) Affinity(nM)  %Rank   BindingLevel
+---------------------------------------------------------------------------------------
+     0   HLA-A03:01       KLMPQSLQY          PEPLIST         0.716        21.60   0.07  <=SB
+     0   HLA-A03:01       KLSAYMSNY          PEPLIST         0.687        29.56   0.12  <=SB
+     0   HLA-A03:01       KMMPTSSQY          PEPLIST         0.686        29.73   0.12  <=SB
+     0   HLA-A03:01       KLMPTSSQY          PEPLIST         0.675        33.85   0.15  <=SB
+     0   HLA-A03:01       KLNPYSSQY          PEPLIST         0.671        35.34   0.17  <=SB
+     0   HLA-A03:01       KLNPTSSQY          PEPLIST         0.635        52.18   0.30  <=SB
+     0   HLA-A03:01       MLMPVSSIY          PEPLIST         0.629        55.08   0.30  <=SB
+     0   HLA-A03:01       KLIPVSSQY          PEPLIST         0.615        64.43   0.40  <=SB
+     0   HLA-A03:01       GLMPTSLQY          PEPLIST         0.599        76.20   0.50  <=SB
+     0   HLA-A03:01       SLMPTSSAY          PEPLIST         0.573       102.05   0.80  <=WB
+     0   HLA-A03:01       TLMPTSSNY          PEPLIST         0.565       110.68   0.80  <=WB
+     0   HLA-A03:01       KLQPVSSQY          PEPLIST         0.564       112.49   0.80  <=WB
+     0   HLA-A03:01       VLMPTSSQY          PEPLIST         0.562       114.33   0.80  <=WB
+     0   HLA-A03:01       VLNPTSSQY          PEPLIST         0.522       176.24   1.00  <=WB
+     0   HLA-A03:01       KLQPTSSQY          PEPLIST         0.520       179.12   1.00  <=WB
+     0   HLA-A03:01       SLNPTSSIY          PEPLIST         0.514       193.22   1.00  <=WB
+     0   HLA-A03:01       YLMPVSIIY          PEPLIST         0.502       220.01   1.00  <=WB
+     0   HLA-A03:01       KMDPTSSQY          PEPLIST         0.485       263.01   1.50  <=WB
+     0   HLA-A03:01       QLMPTVIAY          PEPLIST         0.484       265.87   1.50  <=WB
+     0   HLA-A03:01       SVMPTSSQY          PEPLIST         0.471       306.02   1.50  <=WB
+     0   HLA-A03:01       KLPMVSSQY          PEPLIST         0.453       371.82   1.50  <=WB
+     0   HLA-A03:01       SMQPYSSQY          PEPLIST         0.440       430.30   1.50  <=WB
+     0   HLA-A03:01       SLQPQSLQY          PEPLIST         0.439       432.64   1.50  <=WB
+     0   HLA-A03:01       SSMAQSSQY          PEPLIST         0.431       471.75   2.00  <=WB
+     0   HLA-A03:01       VLDPTSLNY          PEPLIST         0.422       520.00   2.00  <=WB
+     0   HLA-A03:01       KLDPNSSQY          PEPLIST         0.421       525.66   2.00  <=WB
+     0   HLA-A03:01       VMDPAMLNY          PEPLIST         0.416       551.89   2.00  <=WB
+     0   HLA-A03:01       KLPMKSSQY          PEPLIST         0.403       635.24   2.00  <=WB
+     0   HLA-A03:01       KLMPVSLAM          PEPLIST         0.399       663.33   2.00  <=WB
+     0   HLA-A03:01       KLMAYSLQA          PEPLIST         0.387       759.40   2.00  <=WB
+     0   HLA-A03:01       SLQPTSSAY          PEPLIST         0.380       819.15   2.00  <=WB
+     0   HLA-A03:01       SLQPTSSAY          PEPLIST         0.380       819.15   2.00  <=WB
+---------------------------------------------------------------------------------------
+Number of strong binders: 9 Number of weak binders: 23
+---------------------------------------------------------------------------------------
