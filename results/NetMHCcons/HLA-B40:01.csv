@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------
+   pos       Allele         peptide         Identity 1-log50k(aff) Affinity(nM)  %Rank   BindingLevel
+---------------------------------------------------------------------------------------
+     0   HLA-B40:01       AEQGYYYHL          PEPLIST         0.761        13.28   0.12  <=SB
+     0   HLA-B40:01       AEQYCSSYL          PEPLIST         0.686        29.73   0.30  <=SB
+     0   HLA-B40:01       AEQGWIIEM          PEPLIST         0.684        30.54   0.30  <=SB
+     0   HLA-B40:01       AELYYSYYI          PEPLIST         0.655        42.02   0.40  <=SB
+     0   HLA-B40:01       AEQDYSLYI          PEPLIST         0.633        53.32   0.50  <=SB
+     0   HLA-B40:01       AEQIWSWRL          PEPLIST         0.632        53.61   0.50  <=SB
+     0   HLA-B40:01       TEQLAMYII          PEPLIST         0.625        57.82   0.50  <=SB
+     0   HLA-B40:01       AELEWTWQM          PEPLIST         0.608        69.50   0.80  <=WB
+     0   HLA-B40:01       AEQDHMCSM          PEPLIST         0.570       105.42   0.80  <=WB
+     0   HLA-B40:01       AEQGYTCQM          PEPLIST         0.497       230.98   1.00  <=WB
+     0   HLA-B40:01       TEQMDMQLI          PEPLIST         0.456       361.90   1.50  <=WB
+     0   HLA-B40:01       AEYDAYYLW          PEPLIST         0.425       503.39   1.50  <=WB
+     0   HLA-B40:01       AEQIRMLQM          PEPLIST         0.332      1376.93   2.00  <=WB
+     0   HLA-B40:01       AEQGYMYLY          PEPLIST         0.323      1525.99   2.00  <=WB
+     0   HLA-B40:01       AEQGNWLYY          PEPLIST         0.309      1765.99   2.00  <=WB
+     0   HLA-B40:01       AELDWNYLW          PEPLIST         0.309      1756.46   2.00  <=WB
+---------------------------------------------------------------------------------------
+Number of strong binders: 7 Number of weak binders: 9
+---------------------------------------------------------------------------------------

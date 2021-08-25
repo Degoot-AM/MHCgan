@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1 HLA-A*30:01      SSRMSQPEA SSRMSQPEA  0  0  0  0  0    SSRMSQPEA         PEPLIST 0.5088240    0.159 0.781808    0.037    10.60 <= SB
+   1 HLA-A*30:01      SSKTISAQA SSKTISAQA  0  0  0  0  0    SSKTISAQA         PEPLIST 0.4795220    0.189 0.698112    0.132    26.22 <= SB
+   1 HLA-A*30:01      STFHSKPSM STFHSKPSM  0  0  0  0  0    STFHSKPSM         PEPLIST 0.4133040    0.275 0.524032    0.877   172.41 <= SB
+   1 HLA-A*30:01      STNIIRASA STNIIRASA  0  0  0  0  0    STNIIRASA         PEPLIST 0.3303710    0.431 0.670491    0.193    35.35 <= SB
+   1 HLA-A*30:01      SSRWLQALA SSRWLQALA  0  0  0  0  0    SSRWLQALA         PEPLIST 0.3289590    0.434 0.761556    0.048    13.20 <= SB
+   1 HLA-A*30:01      SSKRLMNLM SSKRLMNLM  0  0  0  0  0    SSKRLMNLM         PEPLIST 0.2393430    0.702 0.611358    0.375    67.02 <= WB
+   1 HLA-A*30:01      SSRCSAKAY SSRCSAKAY  0  0  0  0  0    SSRCSAKAY         PEPLIST 0.2054390    0.880 0.593526    0.451    81.28 <= WB
+   1 HLA-A*30:01      STLALRSSM STLALRSSM  0  0  0  0  0    STLALRSSM         PEPLIST 0.1778850    1.056 0.498294    1.133   227.77 <= WB
+   1 HLA-A*30:01      SSNTSQSAR SSNTSQSAR  0  0  0  0  0    SSNTSQSAR         PEPLIST 0.1677960    1.137 0.366612    3.454   946.83 <= WB
+   1 HLA-A*30:01      CTRNITKLY CTRNITKLY  0  0  0  0  0    CTRNITKLY         PEPLIST 0.1633530    1.177 0.520989    0.903   178.18 <= WB
+   1 HLA-A*30:01      STMRLMKAY STMRLMKAY  0  0  0  0  0    STMRLMKAY         PEPLIST 0.1487210    1.313 0.427958    2.096   487.54 <= WB
+   1 HLA-A*30:01      STLMIRKTM STLMIRKTM  0  0  0  0  0    STLMIRKTM         PEPLIST 0.1467980    1.332 0.412397    2.383   576.94 <= WB
+   1 HLA-A*30:01      YTKIISQAY YTKIISQAY  0  0  0  0  0    YTKIISQAY         PEPLIST 0.1356430    1.450 0.340854    4.270  1251.14 <= WB
+   1 HLA-A*30:01      STLHQPFAY STLHQPFAY  0  0  0  0  0    STLHQPFAY         PEPLIST 0.1297570    1.521 0.268603    7.697  2734.09 <= WB
+   1 HLA-A*30:01      STQRLMPSM STQRLMPSM  0  0  0  0  0    STQRLMPSM         PEPLIST 0.1270790    1.556 0.493946    1.184   238.74 <= WB
+   1 HLA-A*30:01      SSMRIHKAM SSMRIHKAM  0  0  0  0  0    SSMRIHKAM         PEPLIST 0.1243920    1.592 0.454265    1.672   366.77 <= WB
+   1 HLA-A*30:01      SSLTSRKSM SSLTSRKSM  0  0  0  0  0    SSLTSRKSM         PEPLIST 0.1157480    1.707 0.384107    3.013   783.54 <= WB
+   1 HLA-A*30:01      SSMWIQASA SSMWIQASA  0  0  0  0  0    SSMWIQASA         PEPLIST 0.1088380    1.822 0.547331    0.705   133.99 <= WB
+   1 HLA-A*30:01      SSLRIQASA SSLRIQASA  0  0  0  0  0    SSLRIQASA         PEPLIST 0.1042610    1.896 0.481522    1.308   273.09 <= WB
